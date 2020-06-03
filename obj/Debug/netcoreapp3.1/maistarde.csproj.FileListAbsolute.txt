@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\obj\Debug\netcoreapp3.1\maistarde.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\obj\Debug\netcoreapp3.1\maistarde.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\obj\Debug\netcoreapp3.1\maistarde.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.exe
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.dll
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\bin\Debug\netcoreapp3.1\maistarde.pdb
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\obj\Debug\netcoreapp3.1\maistarde.dll
+C:\Users\Maria Luiza\Documents\Luiza\maistarde\maistarde\obj\Debug\netcoreapp3.1\maistarde.pdb
